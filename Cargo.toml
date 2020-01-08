@@ -1,0 +1,12 @@
+[package]
+name = "http_bucketleta_two"
+version = "0.1.0"
+authors = ["Alex Krivolutsky <irramail@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.9.22"
+linkify = "0.4.0"
+
